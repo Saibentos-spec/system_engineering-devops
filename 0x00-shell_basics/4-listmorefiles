@@ -1,0 +1,2 @@
+echo "#!/bin/bash" > 4-listmorefiles
+echo "ls -la" >> 4-listmorefiles
