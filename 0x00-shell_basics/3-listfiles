@@ -1,2 +1,3 @@
-echo "#!/bin/bash" > 3-listfiles
-echo "ls -l" >> 3-listfiles
+#!/bin/bash
+ls -l
+
