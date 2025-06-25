@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -l | grep -v 4-listmorefiles
+ls -l 0-current_working_directory 1-listit 2-bring_me_home
+
