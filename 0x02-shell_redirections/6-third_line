@@ -1,11 +1,2 @@
 #!/bin/bash
-
-# Save first 3 lines to a temp file
-head -n 3 iacta > temp.txt
-
-# Display only the 3rd line
-tail -n 1 temp.txt
-
-# Clean up temp file (optional but good practice)
-rm temp.txt
-
+{ read; read; read line; echo "$line"; } < iacta
