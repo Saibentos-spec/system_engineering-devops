@@ -1,10 +1,1 @@
-# Where Am I?
-
-This script prints the absolute path of the current working directory.
-
-## Usage
-
-Run the script like this:
-
-```bash
-./0-current_working_directory
+This repository contains scripts for the shell variables and expansions project (0x03).
