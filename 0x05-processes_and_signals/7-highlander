@@ -6,4 +6,4 @@ do
   echo "To infinity and beyond"
   sleep 2
 done
-kill -s SIGTERM $(pgrep -f 7-highlander)
+chmod +x 7-highlander
